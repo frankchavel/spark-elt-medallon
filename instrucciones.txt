@@ -122,6 +122,7 @@ spark-submit \
 --------------------
 9. ORQUESTACION
 --------------------
+--Previamente instalar python 3 y virtualenv
 cd airflow
 # python3 -m venv venv --> Solo la primera vez
 source venv/bin/activate
